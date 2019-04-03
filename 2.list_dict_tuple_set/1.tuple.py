@@ -20,3 +20,10 @@ print(tuple02)
 # print(a)
 # print(a[4])
 print(tuple02[3][4])
+
+tuple03 = (2, 30) #130
+tuple04 = (2, 20) #220
+if tuple03 > tuple04:
+    print("t3 > t4")
+else:
+    print("t3 < t4")

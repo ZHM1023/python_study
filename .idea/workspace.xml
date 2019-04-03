@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e9606c7-c564-4781-92c6-701e8939f9b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2.list_dict_tuple_set/2.dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.list_dict_tuple_set/3.set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.list_dict_tuple_set/iterms_case.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.list_dict_tuple_set/1.tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.list_dict_tuple_set/1.tuple.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,11 +15,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2.list_dict_tuple_set/2.dict.py">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2.list_dict_tuple_set/3.set.py">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="310">
-              <caret line="31" column="12" lean-forward="true" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+              <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2.list_dict_tuple_set/1.tuple.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2.list_dict_tuple_set/iterms_case.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -52,8 +81,10 @@
         <option value="$PROJECT_DIR$/1.python_cycle/2.cycle_break.py" />
         <option value="$PROJECT_DIR$/1.python_cycle/3.cycle_continue.py" />
         <option value="$PROJECT_DIR$/2.list_dict_tuple_set/0.list.py" />
-        <option value="$PROJECT_DIR$/2.list_dict_tuple_set/1.tuple.py" />
         <option value="$PROJECT_DIR$/2.list_dict_tuple_set/2.dict.py" />
+        <option value="$PROJECT_DIR$/2.list_dict_tuple_set/3.set.py" />
+        <option value="$PROJECT_DIR$/2.list_dict_tuple_set/1.tuple.py" />
+        <option value="$PROJECT_DIR$/2.list_dict_tuple_set/iterms_case.py" />
       </list>
     </option>
   </component>
@@ -109,7 +140,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2.dict">
+  <component name="RunManager" selected="Python.iterms_case">
     <configuration name="0.list" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -154,28 +185,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2.cycle_break" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.python_cycle" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.python_cycle/2.cycle_break.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="2.dict" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -198,7 +207,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3.cycle_continue" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="3.set" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -206,12 +215,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.python_cycle" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2.list_dict_tuple_set" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.python_cycle/3.cycle_continue.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.list_dict_tuple_set/3.set.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="iterms_case" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2.list_dict_tuple_set" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.list_dict_tuple_set/iterms_case.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -222,11 +253,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2.dict" />
+        <item itemvalue="Python.iterms_case" />
         <item itemvalue="Python.1.tuple" />
+        <item itemvalue="Python.3.set" />
+        <item itemvalue="Python.2.dict" />
         <item itemvalue="Python.0.list" />
-        <item itemvalue="Python.3.cycle_continue" />
-        <item itemvalue="Python.2.cycle_break" />
       </list>
     </recent_temporary>
   </component>
@@ -245,23 +276,23 @@
       <workItem from="1554197946692" duration="677000" />
       <workItem from="1554253390852" duration="7017000" />
       <workItem from="1554271298846" duration="3985000" />
-      <workItem from="1554277629784" duration="1116000" />
+      <workItem from="1554277629784" duration="5899000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19607000" />
+    <option name="totallyTimeSpent" value="24390000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1366" height="706" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16388467" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.16388467" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26902655" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26902655" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -285,17 +316,19 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_study$string_case_zodiac.coverage" NAME="string_case_zodiac Coverage Results" MODIFIED="1554191853130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0.python_basis" />
     <SUITE FILE_PATH="coverage/python_study$2_cycle_break.coverage" NAME="2.cycle_break Coverage Results" MODIFIED="1554261864715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.python_cycle" />
+    <SUITE FILE_PATH="coverage/python_study$3_set.coverage" NAME="3.set Coverage Results" MODIFIED="1554281071310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.list_dict_tuple_set" />
     <SUITE FILE_PATH="coverage/python_study$3_cycle_continue.coverage" NAME="3.cycle_continue Coverage Results" MODIFIED="1554262373657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.python_cycle" />
     <SUITE FILE_PATH="coverage/python_study$0_andornot.coverage" NAME="0.andornot Coverage Results" MODIFIED="1554254390633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.python_cycle" />
     <SUITE FILE_PATH="coverage/python_study$case002.coverage" NAME="case002 Coverage Results" MODIFIED="1554257978198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.python_cycle" />
     <SUITE FILE_PATH="coverage/python_study$4_string_replace.coverage" NAME="4.string_replace Coverage Results" MODIFIED="1554197842983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0.python_basis" />
     <SUITE FILE_PATH="coverage/python_study$2_cycle_002.coverage" NAME="2.cycle_002 Coverage Results" MODIFIED="1554261456261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.python_cycle" />
-    <SUITE FILE_PATH="coverage/python_study$1_tuple.coverage" NAME="1.tuple Coverage Results" MODIFIED="1554274206583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.list_dict_tuple_set" />
+    <SUITE FILE_PATH="coverage/python_study$1_tuple.coverage" NAME="1.tuple Coverage Results" MODIFIED="1554282298060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.list_dict_tuple_set" />
+    <SUITE FILE_PATH="coverage/python_study$iterms_case.coverage" NAME="iterms_case Coverage Results" MODIFIED="1554284131279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.list_dict_tuple_set" />
     <SUITE FILE_PATH="coverage/python_study$exam_xiaoming.coverage" NAME="exam_xiaoming Coverage Results" MODIFIED="1554193135772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0.python_basis" />
     <SUITE FILE_PATH="coverage/python_study$0_list.coverage" NAME="0.list Coverage Results" MODIFIED="1554272683063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.list_dict_tuple_set" />
     <SUITE FILE_PATH="coverage/python_study$1_cycle_001.coverage" NAME="1.cycle_001 Coverage Results" MODIFIED="1554260503333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.python_cycle" />
     <SUITE FILE_PATH="coverage/python_study$3_string_definitions.coverage" NAME="3.string_definitions Coverage Results" MODIFIED="1554187947619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0.python_basis" />
-    <SUITE FILE_PATH="coverage/python_study$2_dict.coverage" NAME="2.dict Coverage Results" MODIFIED="1554278561328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.list_dict_tuple_set" />
+    <SUITE FILE_PATH="coverage/python_study$2_dict.coverage" NAME="2.dict Coverage Results" MODIFIED="1554278872185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.list_dict_tuple_set" />
     <SUITE FILE_PATH="coverage/python_study$case001.coverage" NAME="case001 Coverage Results" MODIFIED="1554257511493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.python_cycle" />
   </component>
   <component name="editorHistoryManager">
@@ -404,17 +437,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-1594486859/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="4399" column="11" selection-start-line="4399" selection-start-column="8" selection-end-line="4399" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.list_dict_tuple_set/3.set.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/2.list_dict_tuple_set/1.tuple.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+        <state relative-caret-position="200">
+          <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2.list_dict_tuple_set/2.dict.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="31" column="12" lean-forward="true" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.list_dict_tuple_set/iterms_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
         </state>
       </provider>
     </entry>
