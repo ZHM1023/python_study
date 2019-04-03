@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e9606c7-c564-4781-92c6-701e8939f9b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2.list_dict_tuple_set/1.tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.list_dict_tuple_set/2.dict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,10 +14,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2.list_dict_tuple_set/1.tuple.py">
+        <entry file="file://$PROJECT_DIR$/2.list_dict_tuple_set/2.dict.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
-              <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+            <state relative-caret-position="310">
+              <caret line="31" column="12" lean-forward="true" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -52,6 +53,7 @@
         <option value="$PROJECT_DIR$/1.python_cycle/3.cycle_continue.py" />
         <option value="$PROJECT_DIR$/2.list_dict_tuple_set/0.list.py" />
         <option value="$PROJECT_DIR$/2.list_dict_tuple_set/1.tuple.py" />
+        <option value="$PROJECT_DIR$/2.list_dict_tuple_set/2.dict.py" />
       </list>
     </option>
   </component>
@@ -69,6 +71,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -85,7 +88,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -107,7 +109,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1.tuple">
+  <component name="RunManager" selected="Python.2.dict">
     <configuration name="0.list" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,28 +154,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2.cycle_002" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.python_cycle" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.python_cycle/2.cycle_002.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="2.cycle_break" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -188,6 +168,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.python_cycle/2.cycle_break.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2.dict" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2.list_dict_tuple_set" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.list_dict_tuple_set/2.dict.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -220,11 +222,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2.dict" />
         <item itemvalue="Python.1.tuple" />
         <item itemvalue="Python.0.list" />
         <item itemvalue="Python.3.cycle_continue" />
         <item itemvalue="Python.2.cycle_break" />
-        <item itemvalue="Python.2.cycle_002" />
       </list>
     </recent_temporary>
   </component>
@@ -242,23 +244,24 @@
       <workItem from="1554196790656" duration="1121000" />
       <workItem from="1554197946692" duration="677000" />
       <workItem from="1554253390852" duration="7017000" />
-      <workItem from="1554271298846" duration="3338000" />
+      <workItem from="1554271298846" duration="3985000" />
+      <workItem from="1554277629784" duration="1116000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17844000" />
+    <option name="totallyTimeSpent" value="19607000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1366" height="706" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1616085" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16388467" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22477876" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26902655" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -292,6 +295,7 @@
     <SUITE FILE_PATH="coverage/python_study$0_list.coverage" NAME="0.list Coverage Results" MODIFIED="1554272683063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.list_dict_tuple_set" />
     <SUITE FILE_PATH="coverage/python_study$1_cycle_001.coverage" NAME="1.cycle_001 Coverage Results" MODIFIED="1554260503333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.python_cycle" />
     <SUITE FILE_PATH="coverage/python_study$3_string_definitions.coverage" NAME="3.string_definitions Coverage Results" MODIFIED="1554187947619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0.python_basis" />
+    <SUITE FILE_PATH="coverage/python_study$2_dict.coverage" NAME="2.dict Coverage Results" MODIFIED="1554278561328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.list_dict_tuple_set" />
     <SUITE FILE_PATH="coverage/python_study$case001.coverage" NAME="case001 Coverage Results" MODIFIED="1554257511493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.python_cycle" />
   </component>
   <component name="editorHistoryManager">
@@ -402,8 +406,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/2.list_dict_tuple_set/1.tuple.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
+        <state relative-caret-position="374">
           <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.list_dict_tuple_set/2.dict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="31" column="12" lean-forward="true" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
         </state>
       </provider>
     </entry>
