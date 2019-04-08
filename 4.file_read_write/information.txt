@@ -1,0 +1,13 @@
+1.ni hen shuai.
+2.ni hen shuai.
+3.ni hen shuai.
+4.ni hen shuai.
+5.ni hen shuai.
+6.ni hen shuai.
+7.ni hen shuai.
+8.ni hen shuai.
+9.ni hen shuai.
+10.ni hen shuai.
+insert seek number, file.write.
+insert seek number, file.write.
+insert
