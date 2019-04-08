@@ -10,4 +10,7 @@
 10.ni hen shuai.
 insert seek number, file.write.
 insert seek number, file.write.
-insert
+insertni hen shuai.
+ni hen shuai.
+ni hen shuai.
+ni hen shuai.
